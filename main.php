@@ -3,7 +3,7 @@
 require 'vendor/autoload.php';
 
 // توكن البوت
-$token = " "; // ضع توكنك هنا
+$token = "7022789634:AAELfNd2cUVS-QvCE7LopnA0HReczIgD3l8"; // ضع توكنك هنا
 $bot = new \TelegramBot\Api\BotApi($token);
 
 $b = 'SDM';
